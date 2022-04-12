@@ -1,4 +1,4 @@
-[
+{
   {
     "user": "PERSON 1",
     "posts": [
@@ -26,6 +26,5 @@
       "This is a postdasdasdas",
       "THIS IS ALSO A POSTdsadsaadsasdads"
      ]
-  },
-  
-]
+  }
+}
