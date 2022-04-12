@@ -1,35 +1,35 @@
 [
-  {
-  "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-  },
-  {
-  "posts": [
+        "username": "Jacob",
+        "posts": [
+            "post1",
+            "post2",
+            "post3"
+        ]
+    },
     {
-      "id": 2,
-      "title": "h2ello"
-    }
-  ],
-  "profile": {
-    "name": "typic2ode"
-  }
-  },
-  "posts": [
+        "username": "Caleb",
+        "posts": [
+            "pocst1",
+            "post2",
+            "post3"
+        ]
+    },
     {
-      "id": 3,
-      "title": "3hello"
+        "username": "Josh",
+        "posts": [
+            "pojst1",
+            "post2",
+            "post3"
+        ]
+    },
+    {
+        "username": "Rachel",
+        "posts": [
+            "porst1",
+            "post2",
+            "post3"
+        ]
     }
-  ],
-  "profile": {
-    "name": "3typicode"
-  }
-  }
 ]
-
+  
